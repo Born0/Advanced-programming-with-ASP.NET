@@ -20,7 +20,7 @@ namespace FirstMVCApplication.Controllers
         }
         [HttpPost]
         
-        public ActionResult Index(Person person/*, HttpPostedFileBase file*/)
+        public ActionResult Index(Person person)
         {
             if (person.Name ==null)
             {
@@ -79,14 +79,16 @@ namespace FirstMVCApplication.Controllers
                 return View();
             }
 
-            string imgName = Path.GetFileName(person.ProfilePicture.FileName);
-            
+            return View(person);
 
+            /*string imgName = Path.GetFileName(person.ProfilePicture.FileName);
             string details = person.Name + "<br>" + person.UserName + "<br>" + person.Password + "<br>" + person.DateOfBirth + "<br>" +
                 person.BloodGroup + "<br>" + person.Gender + "<br>";
-            return Content(details + "< img src =" + imgName + " >  ");
-            //return RedirectToAction(p)
-            
+            return Content(details + "< img src ='" + imgName + "' >  ");*/
+
+
+
+
         }
     }
 }

@@ -1,0 +1,49 @@
+﻿@model FirstMVCApplication.Models.Person
+
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td><label>Name: </label></td>
+                <td><label>@Model.Name  </label></td>
+
+            </tr>
+            <tr>
+                <td><label>UserName</label></td>
+                <td><label>@Model.UserName  </label></td>
+            </tr>
+            <tr>
+                <td><label>Password</label></td>
+                <td><label>@Model.Password  </label></td>
+            </tr>
+
+            <tr>
+                <td><label>Date of Birth</label></td>
+                <td><label>@Model.DateOfBirth  </label></td>
+            </tr>
+
+            <tr>
+                <td><label><br> Blood Group</label></td>
+                <td><label>@Model.BloodGroup  </label></td>
+            </tr>
+            <tr>
+                <td><label for="gender"><br> Gender </label></td>
+                <td><label>@Model.Gender  </label></td>
+            </tr>
+            <tr>
+                <td><label for="Profile picture"><br> Profile picture: </label></td>
+                <td><label>@Model.ProfilePicture  </label></td>
+            </tr>
+
+        </table>
+    </div>
+</body>
+</html>
+@*
