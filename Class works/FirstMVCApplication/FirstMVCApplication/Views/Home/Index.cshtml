@@ -1,0 +1,86 @@
+﻿@model IEnumerable<FirstMVCApplication.Models.Person>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+
+        <p>
+            @ViewData["msg"]
+        </p>
+        <form method="post" enctype="multipart/form-data">
+            <table>
+                <tr>
+                    <td><label>Name</label></td>
+                    <td><input type="text" name="name" /></td>
+                </tr>
+                <tr>
+                    <td><label>UserName</label></td>
+                    <td><input type="text" name="username" /></td>
+                </tr>
+                <tr>
+                    <td><label>Password</label></td>
+                    <td><input type="password" name="password" /></td>
+                </tr>
+                <tr>
+                    <td><label>Confirm Password</label></td>
+                    <td><input type="password" name="confirmpassword" /></td>
+                </tr>
+                <tr>
+                    <td><label>Date of Birth</label></td>
+                    <td><input type="date" name="dateofbirth"></td>
+                </tr>
+
+                <tr>
+                    <td><label><br> Blood Group</label></td>
+                    <td>
+                        <select name="BloodGroup" id="blood">
+                            <option value="A+">A+</option>
+                            <option value="A-">A-</option>
+                            <option value="B+">B+</option>
+                            <option value="B-">B-</option>
+                            <option value="O+">O+</option>
+                            <option value="O-">O-</option>
+                            <option value="AB+">AB+</option>
+                            <option value="AB-">AB-</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="gender"><br> Gender </label></td>
+                    <td>
+                        <input type="radio" id="gender1" name="gender" value="male" checked><label for="male">Male</label>
+                        <input type="radio" id="gender" name="gender" value="female"><label for="female">Female</label>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        @using (Html.BeginForm("UploadFile", "Upload", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.TextBox("ProfilePicture", "", new { type = "file" })
+                        }
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <input type="checkbox" name="checkbox" value="check" id="agree" /> I have read and agree to the Terms and Conditions and Privacy Policy
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="submit" value="Submit" /></td>
+                </tr>
+            </table>
+        </form>
+
+
+    </div>
+</body>
+</html>
