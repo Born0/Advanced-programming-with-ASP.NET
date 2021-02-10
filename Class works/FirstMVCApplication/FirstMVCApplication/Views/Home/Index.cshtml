@@ -1,4 +1,4 @@
-﻿@model IEnumerable<FirstMVCApplication.Models.Person>
+﻿@model FirstMVCApplication.Models.Person
 
 <!DOCTYPE html>
 
@@ -60,6 +60,7 @@
                 </tr>
 
                 <tr>
+                    <td> Profile Picture </td>
                     <td>
                         @using (Html.BeginForm("UploadFile", "Upload", FormMethod.Post, new { enctype = "multipart/form-data" }))
                         {
@@ -69,6 +70,7 @@
                 </tr>
 
                 <tr>
+                    <td></td>
                     <td>
                         <input type="checkbox" name="checkbox" value="check" id="agree" /> I have read and agree to the Terms and Conditions and Privacy Policy
                     </td>

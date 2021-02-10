@@ -71,7 +71,7 @@ namespace FirstMVCApplication.Controllers
                     string _path = Path.Combine(Server.MapPath("~/UploadedFiles"), _FileName);
                     person.ProfilePicture.SaveAs(_path);
                 }
-                ViewData["msg"] = "File Uploaded Successfully!!";
+                //ViewData["msg"] = "File Uploaded Successfully!!";
             }
             catch
             {
@@ -84,7 +84,7 @@ namespace FirstMVCApplication.Controllers
             /*string imgName = Path.GetFileName(person.ProfilePicture.FileName);
             string details = person.Name + "<br>" + person.UserName + "<br>" + person.Password + "<br>" + person.DateOfBirth + "<br>" +
                 person.BloodGroup + "<br>" + person.Gender + "<br>";
-            return Content(details + "< img src ='" + imgName + "' >  ");*/
+            return Content(*//*details +*//* "< img src ='" + imgName + "' >  ");*/
 
 
 
