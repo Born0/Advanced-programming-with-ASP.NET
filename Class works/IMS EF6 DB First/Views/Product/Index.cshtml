@@ -1,0 +1,33 @@
+﻿@model IEnumerable<IMS_EF6_DB_First.Models.Product>
+
+<div>
+    <a href="/product/create">Create New</a> 
+</div>
+
+<div>
+    <table border="1">
+        <tr>
+            <th> Product Id</th>
+            <th> Product Name</th>
+            <th> Product Price</th>
+            <th> Product CatagoryId</th>
+            <th> Operation</th>
+
+        </tr>
+        
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @item.ProductId</td>
+
+                <td> @item.ProductName</td>
+
+                <td> @item.ProductPrice</td>
+
+                <td> @item.CatagoryId</td>
+                <td><a href="/product/edit/@item.ProductId">Edit</a> 
+               <a href="/product/delete/@item.ProductId">Delete</a> </td>
+            </tr>
+        }
+    </table>
+</div>

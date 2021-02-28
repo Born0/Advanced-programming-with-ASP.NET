@@ -1,0 +1,53 @@
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\IMS EF6 DB First.dll.config
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\IMS EF6 DB First.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\IMS EF6 DB First.pdb
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\csc.exe
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\csc.exe.config
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\csc.rsp
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\csi.exe
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\csi.rsp
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\System.AppContext.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\vbc.exe
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\vbc.exe.config
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\vbc.rsp
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\VBCSCompiler.exe
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\EntityFramework.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\EntityFramework.SqlServer.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Helpers.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Mvc.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Razor.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Webpages.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Webpages.Razor.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\EntityFramework.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\EntityFramework.SqlServer.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Razor.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Webpages.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Webpages.Razor.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Helpers.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\System.Web.Mvc.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Borno\source\repos\IMS EF6 DB First\obj\Debug\IMS EF6 DB First.csprojAssemblyReference.cache
+C:\Users\Borno\source\repos\IMS EF6 DB First\obj\Debug\IMS EF6 DB First.csproj.CoreCompileInputs.cache
+C:\Users\Borno\source\repos\IMS EF6 DB First\obj\Debug\IMS EF6 DB First.csproj.CopyComplete
+C:\Users\Borno\source\repos\IMS EF6 DB First\obj\Debug\IMS EF6 DB First.dll
+C:\Users\Borno\source\repos\IMS EF6 DB First\obj\Debug\IMS EF6 DB First.pdb

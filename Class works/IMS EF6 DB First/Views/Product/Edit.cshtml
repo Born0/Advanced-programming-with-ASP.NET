@@ -1,0 +1,25 @@
+﻿@model IMS_EF6_DB_First.Models.Product
+
+<div>
+    <form method="post">
+        <table>
+            <tr>
+                <td>product name </td>
+
+                <td> <input type="text" name="productName" value="@Model.ProductName"></td>
+            </tr>
+            <tr>
+                <td> product price </td>
+
+                <td><input type="text" name="productPrice" value="@Model.ProductPrice"> </td>
+            </tr>
+            <tr>
+                <td> catagory Id </td>
+
+                <td><input type="text" name="catagoryId" value="@Model.CatagoryId"> </td>
+            </tr>
+        </table>
+        <input type="submit" value="Save">
+    </form>
+
+</div>
