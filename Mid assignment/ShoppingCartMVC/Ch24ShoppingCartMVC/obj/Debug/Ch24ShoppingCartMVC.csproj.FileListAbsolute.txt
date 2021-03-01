@@ -177,3 +177,4 @@ D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartM
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CopyComplete
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojAssemblyReference.cache

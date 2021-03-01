@@ -12,14 +12,17 @@ namespace Ch24ShoppingCartMVC.Controllers {
         public ViewResult Index() {
             ViewBag.HeaderText = "Welcome to the Halloween Store";
             ViewData["FooterText"] = "Where every day is Halloween!";
+            ViewBag.Currentdate = DateTime.Today.DayOfWeek.ToString();
             return View();
         }
-        /*[HttpGet]
-        public ViewResult Contact() {
-            //CREATE A ContactViewModel OBJECT call model  model
-            //____________________________________________________
-            //Pass model to View
-            //_________________________________
-        }*/
+        [HttpGet]
+        public ViewResult Contact()
+        {
+            ContactViewModel contactViewModel = new ContactViewModel();
+            return View(contactViewModel);
+        }
+
+       
     }
+
 }

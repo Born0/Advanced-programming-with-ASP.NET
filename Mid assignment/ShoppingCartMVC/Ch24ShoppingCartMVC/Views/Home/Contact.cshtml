@@ -9,9 +9,15 @@
     Fax
     Social Media URLs*@
 <h1>Contact Us</h1>
-<p>Email: @Model.Email</p>
-__________________________________
-<p>@foreach (string url in _____________________________) {
+<ul>
+    <li>Email: @Model.Email </li>
+    <li>Phone: @Model.Phone </li>
+    <li>Fax: @Model.Fax </li>
+</ul>
+    <h3>Social Media urls: </h3>
+
+
+<p>@foreach (string url in Model.SocialMediaUrls) {
         <a href="@url" target="_blank">@url</a> <br />
     }
 </p>

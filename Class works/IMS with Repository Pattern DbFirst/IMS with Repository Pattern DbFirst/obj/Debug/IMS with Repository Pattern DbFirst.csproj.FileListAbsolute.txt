@@ -1,0 +1,105 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\IMS with Repository Pattern DbFirst.dll.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\IMS with Repository Pattern DbFirst.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\IMS with Repository Pattern DbFirst.pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csc.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csc.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csc.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csi.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csi.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\vbc.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\vbc.rsp
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\EntityFramework.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Helpers.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Mvc.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Razor.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.Razor.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\EntityFramework.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Razor.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.Razor.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Helpers.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Mvc.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.csproj.CopyComplete
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.dll
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\APWDN\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.pdb
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\IMS with Repository Pattern DbFirst.dll.config
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\IMS with Repository Pattern DbFirst.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\IMS with Repository Pattern DbFirst.pdb
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csc.exe
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csc.exe.config
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csc.rsp
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csi.exe
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\csi.rsp
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.AppContext.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.Collections.Immutable.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.IO.FileSystem.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\System.Reflection.Metadata.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\vbc.exe
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\vbc.exe.config
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\vbc.rsp
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\VBCSCompiler.exe
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\roslyn\VBCSCompiler.exe.config
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\EntityFramework.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\EntityFramework.SqlServer.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\Microsoft.Web.Infrastructure.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Helpers.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Mvc.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Razor.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.Deployment.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.Razor.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\EntityFramework.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\EntityFramework.SqlServer.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Razor.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.Deployment.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Webpages.Razor.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Helpers.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\System.Web.Mvc.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.csproj.CoreCompileInputs.cache
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.csproj.CopyComplete
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.dll
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.pdb
