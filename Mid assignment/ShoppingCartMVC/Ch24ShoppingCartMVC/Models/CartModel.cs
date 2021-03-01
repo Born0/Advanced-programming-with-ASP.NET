@@ -56,7 +56,7 @@ namespace Ch24ShoppingCartMVC.Models
                     AddItemToDataStore(model);
                 else
                     //Increase the Quantity by the quantity of the added product
-                    ________________________________________
+                    inCart.Quantity += model.AddedProduct.Quantity;
             }
         }
 
