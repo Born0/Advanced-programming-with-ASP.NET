@@ -144,7 +144,6 @@ C:\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
 C:\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojResolveAssemblyReference.cache
 C:\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
 C:\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
-D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CoreCompileInputs.cache
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll.config
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
@@ -174,7 +173,8 @@ D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartM
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojAssemblyReference.cache
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CoreCompileInputs.cache
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CopyComplete
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
-D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Mid assignment\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojAssemblyReference.cache
