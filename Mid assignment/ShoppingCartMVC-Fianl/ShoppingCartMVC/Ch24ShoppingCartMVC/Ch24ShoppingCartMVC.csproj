@@ -175,7 +175,6 @@
     </Compile>
     <Compile Include="Models\OrderModel.cs" />
     <Compile Include="Models\ViewModels\CartViewModel.cs" />
-    <Compile Include="Models\ViewModels\CheckoutViewModel.cs" />
     <Compile Include="Models\ViewModels\ContactViewModel.cs" />
     <Compile Include="Models\ViewModels\OrderViewModel.cs" />
     <Compile Include="Models\ViewModels\ProductViewModel.cs" />

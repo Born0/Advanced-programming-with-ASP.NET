@@ -50,7 +50,7 @@ namespace Ch24ShoppingCartMVC.Models
             return model;
         }
 
-        ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+        
         private void AddItemToDataStore(CartViewModel model)
         {
             //Add the AddedProduct to the cart
