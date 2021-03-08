@@ -1,4 +1,4 @@
-﻿﻿@model Ch24ShoppingCartMVC.Models.OrderViewModel
+﻿@model Ch24ShoppingCartMVC.Models.OrderViewModel
 @{ ViewBag.Title = "Order";
     var product = Model.SelectedProduct; }
 @section css {
@@ -34,11 +34,8 @@
                 <td><img src="~/Content/Images/Products/@item.ImageFile" alt="" /></td>
                 <td>@item.OnHand</td>
                 <td>
-                    Quantity <br> <input type="text" name="txtQuantity" id="txtQuantity" value="@product.Quantity"><br>
-                    @{ 
-                        product.ProductID= item.ProductID;
-                    }
-                    @Html.HiddenFor(m => m.product.ProductID)
+                    Quantity <br> <input type="text" name="txtQuantity" id="txtQuantity" value="@Model.SelectedProduct.Quantity"><br>
+                    @Html.HiddenFor(m => m.SelectedProduct.ProductID)
                     <input type="submit" name="ddlProducts" id="btnAdd" value="@item.ProductID" />
                 </td>
 

@@ -54,7 +54,7 @@ namespace Ch24ShoppingCartMVC.Controllers
         public RedirectToRouteResult Index(FormCollection collection)
         {
             string pID = collection["ddlProducts"];
-            ViewBag.prdId = pID;
+         
             //Redirect to the action method index of the Order controller with parameter the id 
             //assigned to pID
             return RedirectToAction("Index", "Order", new { @id = pID });
