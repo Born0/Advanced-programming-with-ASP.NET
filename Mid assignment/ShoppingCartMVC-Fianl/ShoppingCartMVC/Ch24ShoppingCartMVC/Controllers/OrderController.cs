@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Ch24ShoppingCartMVC.Models;
+using Ch24ShoppingCartMVC.Models.DataAccess;
 
 namespace Ch24ShoppingCartMVC.Controllers
 {
@@ -36,8 +37,11 @@ namespace Ch24ShoppingCartMVC.Controllers
             { //get selected product and return in view method
               //Call the method GetOrderInfo to get an OrderViewModel object called model
                 OrderViewModel model = order.GetOrderInfo(id);
+                List<Product> allProducts = order.GetAllProductsFromDataStore();
+                ViewBag.all = allProducts;
                 //Assign products to ProductsList property of model
                 model.ProductsList = products;
+                
                 //Assign the quantity of the SelectProduct of the model to 1
                 model.SelectedProduct.Quantity = 1;
                 //Send the model object to the view.
@@ -50,6 +54,7 @@ namespace Ch24ShoppingCartMVC.Controllers
         public RedirectToRouteResult Index(FormCollection collection)
         {
             string pID = collection["ddlProducts"];
+            ViewBag.prdId = pID;
             //Redirect to the action method index of the Order controller with parameter the id 
             //assigned to pID
             return RedirectToAction("Index", "Order", new { @id = pID });
