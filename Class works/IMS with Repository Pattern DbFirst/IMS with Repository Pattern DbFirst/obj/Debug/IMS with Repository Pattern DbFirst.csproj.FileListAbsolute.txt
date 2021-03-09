@@ -103,3 +103,4 @@ D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Reposit
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.csproj.CopyComplete
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.dll
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.pdb
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS with Repository Pattern DbFirst\IMS with Repository Pattern DbFirst\obj\Debug\IMS with Repository Pattern DbFirst.csprojAssemblyReference.cache

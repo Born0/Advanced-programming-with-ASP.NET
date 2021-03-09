@@ -7,25 +7,23 @@ using Ch24ShoppingCartMVC.Models;
 
 namespace Ch24ShoppingCartMVC.Controllers
 {
-    public class CartController : Controller
+    public class CheckoutController : Controller
     {
         private CartModel cart = new CartModel();
 
-        [HttpGet]
         public RedirectToRouteResult Index()
         {
             return RedirectToAction("List/");
         }
 
+
         [HttpGet]
-        public ViewResult List()
+        public ActionResult List()
         {
             CartViewModel model = (CartViewModel)TempData["cart"];
             //if the model is null, then call the method GetCart
             if (model == null)
-            {
                 model = cart.GetCart();
-            }     
             //Passing model to View
             return View(model);
         }
@@ -41,7 +39,21 @@ namespace Ch24ShoppingCartMVC.Controllers
             cart.AddToCart(model);
             //Assign model to the TempData
             TempData["cart"] = model;
-            return RedirectToAction("List", "Cart");
+            return RedirectToAction("Index", "Checkout");
+        }
+
+
+        [HttpPost]
+        public RedirectToRouteResult BackToHome()
+        {
+            return RedirectToAction("Index", "Home");
+        }
+
+
+        [HttpGet]
+        public ActionResult Confirmation()
+        {
+            return View();
         }
 
     }

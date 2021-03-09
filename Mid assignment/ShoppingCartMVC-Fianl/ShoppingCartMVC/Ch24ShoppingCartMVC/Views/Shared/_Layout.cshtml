@@ -11,16 +11,11 @@
     @RenderSection("css", required: false)
 </head>
 <body>
-    <header><img src="~/Content/Images/banner.jpg" alt="Store" /></header>
+    <header align="center"><img src="~/Content/Images/banner.jpg" alt="Store"  /></header>
     <aside>
         <nav>
             <ul id="menu">
-                @*IMPLEMENT THE LINK Home, Order, Cart and ConctactUs
-                    Home Action method: Index Controller: Home
-                    Order Action method: Index Controller: Order
-                    Cart Action method: List Controller: Cart
-                    Contact Us Action method: Contact Controller: Home
-                *@
+                
                 <li>@Html.ActionLink("Home", "Index/", "Home")</li>
                 <li>@Html.ActionLink("Order", "Index/", "Order")</li>
                 <li>@Html.ActionLink("Cart", "List/", "Cart")</li>

@@ -28,6 +28,7 @@ namespace Ch24ShoppingCartMVC.Controllers
             if (string.IsNullOrEmpty(id))
             {
                 id = products.ElementAt(0).Value;
+                
                 //ASSIGN products to temp data called products
                 TempData["products"] = products;
                 //Redirect to the action method Index of the Order controller with id parameter.
@@ -39,6 +40,7 @@ namespace Ch24ShoppingCartMVC.Controllers
                 OrderViewModel model = order.GetOrderInfo(id);
                 List<Product> allProducts = order.GetAllProductsFromDataStore();
                 ViewBag.all = allProducts;
+                
                 //Assign products to ProductsList property of model
                 model.ProductsList = products;
                 

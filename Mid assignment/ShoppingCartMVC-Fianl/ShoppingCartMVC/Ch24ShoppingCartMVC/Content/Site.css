@@ -2,13 +2,16 @@
     font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
     color: #232323;
-    background-color: #fff;
+    background-color: #fee;
 }
 
 header, footer, nav, section {
     display: block;
 }
+h1,h2,h3,h4{
+    align-content:center;
 
+}
 
 /* Styles for basic forms
 -----------------------------------------------------------*/

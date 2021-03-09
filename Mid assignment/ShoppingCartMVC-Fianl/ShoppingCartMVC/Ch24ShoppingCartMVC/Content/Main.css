@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+img {
+    border-radius: 50%;
+}
+h1, h2, h3, h4 {
+    align-content: center;
+}
 body {
     font-family: Arial, Helvetica, Sans-Serif;
     font-size: 85%;
@@ -9,9 +15,10 @@ body {
    
     margin: 0 auto;
     padding: 10px;
-    border: 2px solid black;
-    background-color: white;
+    /*border: 2px solid black;*/
+    background-color: #ebd49b;
 }
+
 aside {
     float: left;
     width: 100px;
@@ -20,7 +27,7 @@ section {
     float: left;
     width: 550px;
     margin: 1em;
-    padding-left: 1.5em;
+    padding-left: 220px;
 }
     section h1 {
         margin: .5em 0;

@@ -3,64 +3,67 @@
     var product = Model.SelectedProduct; }
 @section css {
     <link href="~/Content/Order.css" rel="stylesheet">
+   
 }
 
 <h2>Halloween Store Order Page</h2>
+<h4>select item and go to end of page to add to cart</h4>
+<br /><br /><br />
 
-@*<form id="frmDropDown" action="/Order/Index/" method="post">*@
+<form id="frmDropDown" action="/Order/Index/" method="post">
+    <div class="table">
+        <TABLE border="1" RULES=ROWS FRAME=BOX>
+            <tr>
+                <th>Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th></th>
+                <th>ShortDescription&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th>LongDescription&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th></th>
+                <th>UnitPrice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th>Image &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th>Stock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th>Select&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            </tr>
+
+
+            @foreach (var item in ViewBag.all)
+            {
+
+                <tr>
+                    
+                    <td>@item.Name </td>
+                    <td>  &nbsp;&nbsp;&nbsp;</td>
+                    <td>@item.ShortDescription </td>
+                    <td>@item.LongDescription </td>
+                    <td>   &nbsp;&nbsp;&nbsp;</td>
+                    <td>@item.UnitPrice </td>
+                    <td><img src="~/Content/Images/Products/@item.ImageFile" alt="" /></td>
+                    <td>@item.OnHand</td>
+                    <td><button name="ddlProducts" value="@item.ProductID">Select</button></td>
+
+                </tr>
+
+
+            }
+        </TABLE>
+    </div>
+    
+</form>
 
 @using (Html.BeginForm("List", "Cart", FormMethod.Post, new { id = "frmCart" }))
 {
-    <table border="1">
-        <tr>
-            <th>Name</th>
-            <th>ShortDescription</th>
-            <th>LongDescription</th>
-            <th>UnitPrice</th>
-            <th> </th>
-            <th>OnHand</th>
-        </tr>
 
+    
+<div id="productData">
+    <br /><br /><br /><br /><br /><br />
+    <label id="lblName">@product.Name</label>
+    <label id="lblQuantity">Quantity&nbsp;</label>
+    @Html.TextBoxFor(m => m.SelectedProduct.Quantity, new { id = "txtQuantity" })
+    @Html.HiddenFor(m => m.SelectedProduct.ProductID)
+    <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="submit" id="btnAdd" value="Add to Cart" />
+</div>
 
-        @foreach (var item in ViewBag.all)
-        {
-
-            <tr>
-                <td>@item.ProductID</td>
-                <td>@item.Name </td>
-                <td>@item.ShortDescription </td>
-                <td>@item.LongDescription </td>
-                <td>@item.UnitPrice </td>
-                <td><img src="~/Content/Images/Products/@item.ImageFile" alt="" /></td>
-                <td>@item.OnHand</td>
-                <td>
-                    Quantity <br> <input type="text" name="txtQuantity" id="txtQuantity" value="@product.Quantity"><br>
-                    @{ 
-                        product.ProductID= item.ProductID;
-                    }
-                    @Html.HiddenFor(m => m.product.ProductID)
-                    <input type="submit" name="ddlProducts" id="btnAdd" value="@item.ProductID" />
-                </td>
-
-
-            </tr>
-        }
-    </table>
 }
-
-@*@using (Html.BeginForm("List", "Cart", FormMethod.Post, new { id = "frmCart" }))
-{
-
-
-    <div id="productData">
-        <label id="lblName">@product.Name</label>
-        <label id="lblQuantity">Quantity&nbsp;</label>
-        @Html.TextBoxFor(m => m.SelectedProduct.Quantity, new { id = "txtQuantity" })
-        @Html.HiddenFor(m => m.SelectedProduct.ProductID)
-        <br />
-        <input type="submit" id="btnAdd" value="Add to Cart" />
-    </div>
-
-}*@
 
 
