@@ -46,14 +46,8 @@ namespace Ch24ShoppingCartMVC.Controllers
         [HttpPost]
         public RedirectToRouteResult BackToHome()
         {
+
             return RedirectToAction("Index", "Home");
-        }
-
-
-        [HttpGet]
-        public ActionResult Confirmation()
-        {
-            return View();
         }
 
     }
