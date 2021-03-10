@@ -58,7 +58,7 @@
     <br /><br /><br /><br /><br /><br />
     <label id="lblName">@product.Name</label>
     <label id="lblQuantity">Quantity&nbsp;</label>
-    @Html.TextBoxFor(m => m.SelectedProduct.Quantity, new { id = "txtQuantity" })
+    @Html.EditorFor(m => m.SelectedProduct.Quantity, new { @min =1 , @max = 9999, id = "txtQuantity" })
     @Html.HiddenFor(m => m.SelectedProduct.ProductID)
     <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <input type="submit" id="btnAdd" value="Add to Cart" />
