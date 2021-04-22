@@ -73,3 +73,4 @@ D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS With Code Fi
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS With Code First\IMS With Code First\obj\Debug\IMS With Code First.csproj.CopyComplete
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS With Code First\IMS With Code First\obj\Debug\IMS With Code First.dll
 D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS With Code First\IMS With Code First\obj\Debug\IMS With Code First.pdb
+D:\Class\ASP .net\Advanced-programming-with-ASP.NET\Class works\IMS With Code First\IMS With Code First\obj\Debug\IMS With Code First.csprojAssemblyReference.cache

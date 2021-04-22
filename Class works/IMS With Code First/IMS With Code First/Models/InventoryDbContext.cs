@@ -16,12 +16,12 @@ namespace IMS_With_Code_First.Models
 
         public InventoryDbContext():base("name=CFInventoryContext")
         {
-            //1. new CreateDatabaseIfNotExists<InventoryDbContext>();
+             new CreateDatabaseIfNotExists<InventoryDbContext>();
             //2. new DropCreateDatabaseIfModelChanges<InventoryDbContext>();
             //3. new DropCreateDatabaseAlways<InventoryDbContext>();
             //4. Custom
 
-            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<InventoryDbContext>());
+            //Database.SetInitializer(new DropCreateDatabaseIfModelChanges<InventoryDbContext>());
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
